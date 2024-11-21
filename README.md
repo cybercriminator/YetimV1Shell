@@ -14,17 +14,14 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 - [x] **Prevented deletion to server eg hostinger**
 - [x] **More useful features will be added**
 
-
-
-
-<img src="https://i.imgur.com/6fePsRb.gif" width="90%"></img>
  ______________
 
-
+https://i.imgur.com/6fePsRb.gif
+https://i.imgur.com/OTIcKP1.gif
 
  ______________
 
-|               | Default                | code line?                       |
-| ------------- |:----------------------:| -------------------------------:|
-| Password      | __rf__           | Edit __line 54__ |
+| Password                | code line?                       |
+|:----------------------:| -------------------------------:|
+| __rf__           |  __54__ |
  ______________
