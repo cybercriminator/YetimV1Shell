@@ -1,16 +1,13 @@
 # YetimV1Shell
 Yetim V1 Shell {Azerbaijani version WebShell} v1
 
-<a href="mailto:eamilfeyziyev@gmail.com" target="_blank">
-     <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;"></p>
-</a>
 
-- [x] **Great UI Design**
-- [x] **Password access protection**
-- [x] **No Tracker**
-- [x] **php 5 and 8 works fine**
-- [x] **Prevented deletion to server eg hostinger**
-- [x] **More useful features will be added**
+- ➤ **Great UI Design**
+- ➤ **Password access protection**
+- ➤ **No Tracker**
+- ➤ **php 5 and 8 works fine**
+- ➤ **Prevented deletion to server eg hostinger**
+- ➤ **More useful features will be added**
 
 # Screenshot #Login #Home
 
@@ -29,6 +26,12 @@ _______________
 |:---------:|:---------:|
 | __rf__    | __54__    |
 _______________
+
+
+<a href="mailto:eamilfeyziyev@gmail.com" target="_blank">
+     <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;"></p>
+</a>
+
 
 ### LEGAL DISCLAIMER
 
