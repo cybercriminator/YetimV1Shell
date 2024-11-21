@@ -14,13 +14,13 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 #Login 
 _______________
 <a href="https://i.imgur.com/6fePsRb.gif" target="_blank">
-  <img src="https://i.imgur.com/6fePsRb.gif" width="80%" />
+  <img src="https://i.imgur.com/6fePsRb.gif" width="85%" />
 </a>
 
 #Home
 
 <a href="https://i.imgur.com/OTIcKP1.gif" target="_blank">
-  <img src="https://i.imgur.com/OTIcKP1.gif" width="80%" />
+  <img src="https://i.imgur.com/OTIcKP1.gif" width="85%" />
 </a>
 
 _______________
@@ -30,8 +30,7 @@ _______________
 | __rf__    | __54__    |
 _______________
 
-
-#Xirdalan
+➤Xırdalan
 <a href="https://t.me/r4m1l" target="_blank">
      <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="color: #52940F; text-decoration: none;"></p>
 </a>
