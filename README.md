@@ -3,10 +3,7 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 
 <a href="mail:eamilfeyziyev@gmail.com" target="_blank">
      <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;></p>
-</a>
-
- 
-# rf Yetim v1 php webshell
+<br></a>
 
 - [x] **Great UI Design**
 - [x] **Password access protection**
