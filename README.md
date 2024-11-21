@@ -31,8 +31,9 @@ _______________
 _______________
 
 
-<a href="mailto:eamilfeyziyev@gmail.com" target="_blank">
-     <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;"></p>
+#Xirdalan
+<a href="https://t.me/r4m1l" target="_blank">
+     <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="color: #52940F; text-decoration: none;"></p>
 </a>
 
 
