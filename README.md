@@ -5,6 +5,7 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
      <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;></p>
 </a>
 
+ 
 # rf Yetim v1 php webshell
 
 - [x] **Great UI Design**
@@ -43,8 +44,15 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 
 ### LEGAL DISCLAMER
 
-``` mən, bu shellin qeyri-qanuni və ya zərərli məqsədlərlə istifadəsinə görə heç bir məsuliyyət daşımıram.
+```
+AZ:
+Mən, bu shell-in qeyri-qanuni və ya zərərli məqsədlərlə istifadəsindən yaranan hər hansı bir məsuliyyəti qəbul etmirəm.
 İstifadəçi, bu shellin zərərli və ya qanunsuz şəkildə istifadəsi nəticəsində yaranan hər hansı bir məsuliyyəti öz üzərinə götürür
 İcazəsiz olaraq hədəf sistemlərinə giriş etmək və şəxsi fayllara müdaxilə etmək qanunla qadağandır və hüquqi cəzalarla nəticələnə bilər.
+
+EN:
+I do not accept any responsibility arising from the use of this shell for illegal or malicious purposes.
+The user assumes any liability resulting from the malicious or illegal use of this shell
+Unauthorized access to target systems and tampering with personal files is prohibited by law and may result in legal penalties.
 
 ```
