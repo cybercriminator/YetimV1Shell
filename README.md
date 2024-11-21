@@ -1,9 +1,9 @@
 # YetimV1Shell
 Yetim V1 Shell {Azerbaijani version WebShell} v1
 
-<a href="mail:eamilfeyziyev@gmail.com" target="_blank">
-     <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;></p>
-<br></a>
+<a href="mailto:eamilfeyziyev@gmail.com" target="_blank">
+     <p>❤ Can you buy me a xirdalan beer? <img src="https://i.imgur.com/QHuoULN.png" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;"></p>
+</a>
 
 - [x] **Great UI Design**
 - [x] **Password access protection**
@@ -12,34 +12,26 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 - [x] **Prevented deletion to server eg hostinger**
 - [x] **More useful features will be added**
 
-
-
 # Screenshot #Login #Home
 
- ______________
+_______________
 <a href="https://i.imgur.com/6fePsRb.gif" target="_blank">
-<img src="https://i.imgur.com/6fePsRb.gif" width="80%"></img>
+  <img src="https://i.imgur.com/6fePsRb.gif" width="80%" />
 </a>
-
 
 <a href="https://i.imgur.com/OTIcKP1.gif" target="_blank">
-<img src="https://i.imgur.com/OTIcKP1.gif" width="80%"></img>
+  <img src="https://i.imgur.com/OTIcKP1.gif" width="80%" />
 </a>
 
+_______________
 
+| Password  | Code line? |
+|:---------:|:---------:|
+| __rf__    | __54__    |
+_______________
 
- ______________
+### LEGAL DISCLAIMER
 
-| Password  | code line? |
-|:------------:| -------:|
-| __rf__       |  __54__ |
- ______________
-
- ______________
-
- 
-
-### LEGAL DISCLAMER
 
 ```
 AZ:
