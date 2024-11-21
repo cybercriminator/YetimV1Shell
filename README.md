@@ -16,8 +16,15 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 
  ______________
 
-https://i.imgur.com/6fePsRb.gif
-https://i.imgur.com/OTIcKP1.gif
+
+<a href="https://i.imgur.com/6fePsRb.gif" target="_blank">
+<img src="https://i.imgur.com/6fePsRb.gif" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;></img>
+</a>
+
+
+<a href="https://i.imgur.com/OTIcKP1.gif" target="_blank">
+<img src="https://i.imgur.com/OTIcKP1.gif" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;></img>
+</a>
 
  ______________
 
