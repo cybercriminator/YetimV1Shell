@@ -14,7 +14,15 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 - [x] **Prevented deletion to server eg hostinger**
 - [x] **More useful features will be added**
 
+
  ______________
+
+| Password                | code line?                       |
+|:----------------------:| -------------------------------:|
+| __rf__           |  __54__ |
+ ______________
+
+
 
 
 <a href="https://i.imgur.com/6fePsRb.gif" target="_blank">
@@ -25,10 +33,3 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 <a href="https://i.imgur.com/OTIcKP1.gif" target="_blank">
 <img src="https://i.imgur.com/OTIcKP1.gif" height="35" width="10" style="height: auto; max-width: 10px; border-style: none;></img>
 </a>
-
- ______________
-
-| Password                | code line?                       |
-|:----------------------:| -------------------------------:|
-| __rf__           |  __54__ |
- ______________
