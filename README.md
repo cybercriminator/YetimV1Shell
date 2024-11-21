@@ -17,7 +17,7 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 
 
 
-<img src="https://raw.githubusercontent.com/cybercriminator/YetimV1Shell/refs/heads/main/screenshots/rfYetimV1Login.gif" width="90%"></img>
+<img src="https://i.imgur.com/6fePsRb.gif" width="90%"></img>
  ______________
 
 
