@@ -27,7 +27,6 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 <a href="https://i.imgur.com/OTIcKP1.gif" target="_blank">
 <img src="https://i.imgur.com/OTIcKP1.gif" width="80%"></img>
 </a>
- ______________
 
 
 
@@ -44,7 +43,8 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 
 ### LEGAL DISCLAMER
 
-``` The author does not hold any responsibility about the bad use of this tool/script,
-remember that attacking targets access to private files without permissions is illegal and punish
-by law, this tool/script was build to show how resource files can automate tasks.
+``` mən, bu shellin qeyri-qanuni və ya zərərli məqsədlərlə istifadəsinə görə heç bir məsuliyyət daşımıram.
+İstifadəçi, bu shellin zərərli və ya qanunsuz şəkildə istifadəsi nəticəsində yaranan hər hansı bir məsuliyyəti öz üzərinə götürür
+İcazəsiz olaraq hədəf sistemlərinə giriş etmək və şəxsi fayllara müdaxilə etmək qanunla qadağandır və hüquqi cəzalarla nəticələnə bilər.
+
 ```
