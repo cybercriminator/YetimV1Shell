@@ -17,7 +17,7 @@ Yetim V1 Shell {Azerbaijani version WebShell} v1
 
 
 
-<img src="/screenshots/rfYetimV1Login.gif" width="90%"><img src="/screenshots/rfYetimV1Home.gif" width="90%"></img>
+<img src="/screenshots/rfYetimV1Login.gif" width="90%"></img>
  ______________
 
 
